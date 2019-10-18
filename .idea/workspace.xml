@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f16054a-6c71-4b02-8079-c32a88529612" name="Default Changelist" comment="feat(添加新的功能): 简称&#10;&#10;切换到主分支">
+      <change afterPath="$PROJECT_DIR$/INFO_log.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/INFO_log.html.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/INFO_log.html.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/INFO_log.html.3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/MyBookGrab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/util/HtmlFilterUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/MyPageprocesser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/MyPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/OschinaBlogPageProcesser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/ThreadCountableThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginFive/BookModelDo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginFive/MyBookPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginFive/MyBookPipeline2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginFive/MyBookProcesser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginFive/MybookPageProcesser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginFour/MyPageProcesser2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginFour/单页面搂数据.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginSeven/MyPageLinkProcesser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginSix/MyBookProccetor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginSix/MyBookProcetor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginSix/mockBrowsor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginThree/CartoonBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginThree/CartoonContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginThree/CartoonModelPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginThree/CartoonPageModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginThree/MyPageprocesser1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginThree/MyPipeline1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginThree/helper/DownUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginThree/three.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginTwo/MyPageprocesser1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginTwo/MyPipeline1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginTwo/MySelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginTwo/helper/DownUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginTwo/two.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/begineight/MyMockDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/sishenURL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/myTest/model/MyBookResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/myTest/model/TextDomainResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/myTest/service/MyPageprocesser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/myTest/service/MyPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/progress/onedown/MySeleniumDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/progress/selenium/FireFoxToolBegin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/first.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/my.txt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/my.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/INFO_log.html.1">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/INFO_log.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1584">
+              <caret line="48" column="37" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/MyPageprocesser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="28" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/ThreadCountableThreadPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/sishenURL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="39" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#873#881#0" expanded="true" />
+                <element signature="e#552#553#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/OschinaBlogPageProcesser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="42" column="53" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../java/src.zip!/java/util/concurrent/ExecutorService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3366">
+              <caret line="136" column="44" selection-start-line="136" selection-start-column="44" selection-end-line="136" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../java/src.zip!/java/util/concurrent/Executor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2838">
+              <caret line="119" column="14" selection-start-line="119" selection-start-column="14" selection-end-line="119" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mail</find>
+      <find>BufferedWriter</find>
+      <find>请求图片的url</find>
+      <find>第五</find>
+      <find>https://manhua.dmzj.com/sxzyys</find>
+      <find>text</find>
+      <find>欲成欢</find>
+      <find>小说名称欲成欢</find>
+      <find>文章内容</find>
+      <find>小说名称</find>
+      <find>小说名称欲成欢 第一部全集 第三书包网</find>
+      <find>list的长度</find>
+      <find>女仆的一天 2第(1/1)页</find>
+      <find>小说章节： 女仆的一天 2第(1/1)页</find>
+      <find>小说章节： 第五章 红河第(1/3)页</find>
+      <find>storySectionList</find>
+      <find>listConcurrentHashMap</find>
+      <find>Page title is:</find>
+      <find>.</find>
+      <find>MAIL</find>
+      <find>configure</find>
+      <find>downlist</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>//.</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/MyBookGrab.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/util/HtmlFilterUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/MyPipeline.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/myTest/model/MyBook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/myTest/model/TextDomainResp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/myTest/model/MyBookResp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/myTest/service/MyPageprocesser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginTwo/MyPipeline.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginTwo/MySelector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginTwo/MyPipeline1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginTwo/MyPageprocesser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginTwo/helper/DownUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginTwo/two.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginThree/three.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginThree/CartoonModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginThree/CartoonPageModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginThree/CartoonBook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginThree/CartoonContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginThree/MyPageprocesser1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginTwo/MyPageprocesser1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/MyPageprocesser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginFour/MyPageProcesser2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginFour/单页面搂数据.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginFive/BookModelDo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginFive/MyBookPipeline.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginFive/MyBookPipeline2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginFive/MyBookProcesser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginSix/MyBookProccetor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginSix/mockBrowsor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginSix/MyBookProcetor2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginSeven/MyPageLinkProcesser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/begineight/MyMockDownloader.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/OschinaBlogPageProcesser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/progress/onedown/MySeleniumDownloader.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/progress/selenium/FireFoxToolBegin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/ThreadCountableThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/sishenURL.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/webholder/maven" />
+        <option name="userSettingsFile" value="D:\Work\webholder\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="BookGrab" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="BookGrab" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="BookGrab" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="BookGrab" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="com.geccocrawler:gecco:1.3.0" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-30" />
+    <option name="y" value="17" />
+    <option name="width" value="1940" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BookGrab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BookGrab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BookGrab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BookGrab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BookGrab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BookGrab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BookGrab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BookGrab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BookGrab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BookGrab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hlw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BookGrab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BookGrab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hlw" type="462c0819:PsiDirectoryNode" />
+              <item name="webmagic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BookGrab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BookGrab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hlw" type="462c0819:PsiDirectoryNode" />
+              <item name="webmagic" type="462c0819:PsiDirectoryNode" />
+              <item name="begin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BookGrab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BookGrab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hlw" type="462c0819:PsiDirectoryNode" />
+              <item name="webmagic" type="462c0819:PsiDirectoryNode" />
+              <item name="progress" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BookGrab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BookGrab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BookGrab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="BookGrab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="BookGrab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BookGrab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BookGrab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BookGrab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BookGrab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: us.codecraft:webmagic-core:0.7.3" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="BookGrab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: us.codecraft:webmagic-core:0.7.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="webmagic-core-0.7.3.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BookGrab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: us.codecraft:webmagic-core:0.7.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="webmagic-core-0.7.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="webmagic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BookGrab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: us.codecraft:webmagic-core:0.7.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="webmagic-core-0.7.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="webmagic" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559371504148" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebMagicselenium" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hlw.webmagic.begin.beginFive" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\studyProject\BookGrab\src\main\java\com\hlw\webmagic\begin\beginThree" />
+      <recent name="D:\studyProject\BookGrab\src\main\java\com\hlw\webmagic\begin" />
+      <recent name="D:\studyProject\BookGrab\src\main\java\com\hlw\webmagic\begin\beginTwo" />
+      <recent name="D:\studyProject\BookGrab\src\main\java\com\hlw\webmagic\myTest\service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.sishenURL">
+    <configuration name="FireFoxToolBegin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hlw.webmagic.progress.selenium.FireFoxToolBegin" />
+      <module name="BookGrab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hlw.webmagic.progress.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyPageLinkProcesser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hlw.webmagic.begin.beginSeven.MyPageLinkProcesser" />
+      <module name="BookGrab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hlw.webmagic.begin.beginSeven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySeleniumDownloader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hlw.webmagic.progress.onedown.MySeleniumDownloader" />
+      <module name="BookGrab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hlw.webmagic.progress.onedown.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OschinaBlogPageProcesser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hlw.webmagic.begin.OschinaBlogPageProcesser" />
+      <module name="BookGrab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hlw.webmagic.begin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sishenURL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hlw.webmagic.begin.sishenURL" />
+      <module name="BookGrab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hlw.webmagic.begin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.sishenURL" />
+        <item itemvalue="Application.FireFoxToolBegin" />
+        <item itemvalue="Application.MySeleniumDownloader" />
+        <item itemvalue="Application.OschinaBlogPageProcesser" />
+        <item itemvalue="Application.MyPageLinkProcesser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f16054a-6c71-4b02-8079-c32a88529612" name="Default Changelist" comment="" />
+      <created>1556616080720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556616080720</updated>
+      <workItem from="1556616092428" duration="3313000" />
+      <workItem from="1556725319612" duration="6224000" />
+      <workItem from="1556812229951" duration="1294000" />
+      <workItem from="1556813583989" duration="602000" />
+      <workItem from="1556851216083" duration="14012000" />
+      <workItem from="1556940468587" duration="31068000" />
+      <workItem from="1557017906970" duration="64000" />
+      <workItem from="1557028738452" duration="4707000" />
+      <workItem from="1557033767736" duration="1160000" />
+      <workItem from="1557034982017" duration="283000" />
+      <workItem from="1557145102922" duration="4339000" />
+      <workItem from="1557191880209" duration="1705000" />
+      <workItem from="1557541952859" duration="1296000" />
+      <workItem from="1557568512442" duration="1842000" />
+      <workItem from="1558954486953" duration="48000" />
+      <workItem from="1559369084255" duration="1558000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73515000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.28839704" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info id="JRebel" order="8" side_tool="true" />
+      <window_info id="simpleUML" order="9" weight="0.32995737" />
+      <window_info anchor="bottom" id="Application Servers" order="0" weight="0.32985657" />
+      <window_info anchor="bottom" id="Spring" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.5095729" />
+      <window_info anchor="bottom" id="Java Enterprise" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32924107" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.3297244" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.4329897" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.3996063" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="16" />
+      <window_info anchor="bottom" id="JRebel Executor" order="17" />
+      <window_info anchor="bottom" id="JRebel Console" order="18" side_tool="true" />
+      <window_info anchor="bottom" id="Tail" order="19" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.32906666" />
+      <window_info anchor="right" id="PlantUML" order="1" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.26026666" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info id="JRebel" order="8" side_tool="true" />
+      <window_info id="simpleUML" order="9" weight="0.32995737" />
+      <window_info anchor="bottom" id="Application Servers" order="0" weight="0.32985657" />
+      <window_info anchor="bottom" id="Spring" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.25669643" />
+      <window_info anchor="bottom" id="Java Enterprise" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.3297244" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.34263393" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.3996063" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="16" />
+      <window_info anchor="bottom" id="JRebel Executor" order="17" />
+      <window_info anchor="bottom" id="JRebel Console" order="18" side_tool="true" />
+      <window_info anchor="bottom" id="Tail" order="19" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.32906666" />
+      <window_info anchor="right" id="PlantUML" order="1" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat(添加新的功能): 简称&#10;&#10;切换到主分支" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(添加新的功能): 简称&#10;&#10;切换到主分支" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginFive/MyBookPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2304">
+          <caret line="64" column="45" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginTwo/helper/DownUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/INFO_log.html.2">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/INFO_log.html.3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginFive/MyBookPipeline2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="105" column="29" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginTwo/MyPipeline1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2376">
+          <caret line="74" column="5" selection-start-line="48" selection-start-column="4" selection-end-line="74" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginTwo/MyPageprocesser1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="54" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginFive/BookModelDo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginSix/MyBookProccetor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2124">
+          <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginSix/MyBookProcetor2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2124">
+          <caret line="70" column="87" selection-start-line="70" selection-start-column="87" selection-end-line="70" selection-end-column="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginSix/mockBrowsor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginTwo/MySelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3.jar!/us/codecraft/webmagic/Request.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginSeven/MyPageLinkProcesser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3.jar!/us/codecraft/webmagic/downloader/Downloader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3.jar!/us/codecraft/webmagic/downloader/HttpClientDownloader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="32" column="55" lean-forward="true" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/downloader/Downloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/downloader/HttpClientDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="33" />
+          <folding>
+            <element signature="e#1204#1233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginFive/MyBookProcesser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/beginFive/MybookPageProcesser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/Spider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="60" column="19" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-selenium/0.7.3/webmagic-selenium-0.7.3.jar!/us/codecraft/webmagic/downloader/selenium/WebDriverPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1116">
+          <caret line="52" column="46" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/MyBookGrab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/progress/onedown/MySeleniumDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-selenium/0.7.3/webmagic-selenium-0.7.3.jar!/us/codecraft/webmagic/downloader/selenium/SeleniumDownloader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-selenium/0.7.3/webmagic-selenium-0.7.3-sources.jar!/us/codecraft/webmagic/downloader/selenium/WebDriverPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.0/guava-23.0.jar!/com/google/common/collect/Maps.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="143" column="39" selection-start-line="143" selection-start-column="39" selection-end-line="143" selection-end-column="39" />
+          <folding>
+            <element signature="e#5815#5816#0" expanded="true" />
+            <element signature="e#5851#5852#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/MyPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-selenium/0.7.3/webmagic-selenium-0.7.3-sources.jar!/us/codecraft/webmagic/downloader/selenium/SeleniumDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2844">
+          <caret line="79" column="32" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/progress/selenium/FireFoxToolBegin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/2.53.1/selenium-firefox-driver-2.53.1.jar!/org/openqa/selenium/firefox/FirefoxDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="56" column="39" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/2.53.1/selenium-firefox-driver-2.53.1.jar!/org/openqa/selenium/firefox/FirefoxBinary.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/2.53.1/selenium-firefox-driver-2.53.1.jar!/org/openqa/selenium/firefox/internal/Executable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.0/guava-23.0.jar!/com/google/common/collect/FilteredSetMultimap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/begineight/MyMockDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="23" column="20" selection-start-line="18" selection-start-column="8" selection-end-line="23" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.0/guava-23.0.jar!/com/google/common/collect/AbstractIndexedListIterator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/thread/CountableThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+          <folding>
+            <element signature="e#1256#1257#0" expanded="true" />
+            <element signature="e#1310#1311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/my.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/INFO_log.html.1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/INFO_log.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="48" column="37" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3366">
+          <caret line="136" column="44" selection-start-line="136" selection-start-column="44" selection-end-line="136" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2838">
+          <caret line="119" column="14" selection-start-line="119" selection-start-column="14" selection-end-line="119" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/MyPageprocesser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="28" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/ThreadCountableThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/OschinaBlogPageProcesser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="42" column="53" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hlw/webmagic/begin/sishenURL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="39" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#873#881#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BookGrab</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
